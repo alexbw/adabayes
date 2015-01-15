@@ -10,7 +10,7 @@
 * [ ] Build download script for CIFAR10 dataset
 * [ ] Build download script for STL10 dataset
 * [ ] Grok boosting criterion
-* [ ] Fork torch-dist repo
+* [x] Fork torch-dist repo
 * [ ] Update torch-dist repo for OS X 10.10 install
 * [ ] Add new required submodules to distro (nnx, iTorch, ccn2, cunnx, cudnn, sdl2, cutorch)
 * [ ] Figure out model serialization and loading
