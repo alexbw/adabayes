@@ -1,7 +1,9 @@
 # adabayes
 
 ### To do:
-
+* [x] Find candidate last layer features (DeCAF, Overfeat)
+* [x] Find AlexNet code (5 convolutional layers with max-pooling, then three fully connected layers)
+* [ ] Extract last-layer ImageNet features
 * [ ] Extract last-layer ImageNet features
 * [ ] Host last-layer ImageNet features
 * [ ] Build download script for last-layer ImageNet features
