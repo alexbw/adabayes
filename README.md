@@ -1,5 +1,32 @@
 # adabayes
 
+### To do:
+
+[ ] Extract last-layer ImageNet features  
+[ ] Host last-layer ImageNet features  
+[ ] Build download script for last-layer ImageNet features  
+[ ] Build download script for MNIST dataset  
+[ ] Build download script for CIFAR10 dataset  
+[ ] Build download script for STL10 dataset  
+[ ] Grok boosting criterion  
+[ ] Fork torch-dist repo  
+[ ] Update torch-dist repo for OS X 10.10 install  
+[ ] Add new required submodules to distro (nnx, iTorch, ccn2, cunnx, cudnn, sdl2, cutorch)  
+[ ] Figure out model serialization and loading
+[ ] Train and Whetlab a net on MNIST (to get the whole workflow going)
+[ ] Train and Whetlab a net on CIFAR10
+[ ] Train and Whetlab a net on STL10
+[ ] Train and Whetlab a net on last-layer features on ImageNet
+[ ] Build dumb ensemble on CIFAR10
+[ ] Build dumb ensemble on STL10
+[ ] Build a dumb ensemble on ImageNet
+[ ] Whetlab a net with progressive ensembling on CIFAR10
+[ ] Whetlab a net with progressive ensembling on STL10
+[ ] Whetlab a net with progressive ensembling on the last-layer features of ImageNet
+[ ] Whetlab a net with progressive ensembling and tuned class weights on CIFAR10
+[ ] Whetlab a net with progressive ensembling and tuned class weights on STL10
+[ ] Whetlab a net with progressive ensembling and tuned class weights on the last-layer features of ImageNet
+
 ### Collecting some resources
 
 AlexNet:
