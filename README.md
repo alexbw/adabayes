@@ -13,7 +13,9 @@
 * [x] Fork torch-dist repo
 * [ ] Update torch-dist repo for OS X 10.10 install
 * [ ] Add new required submodules to distro (nnx, iTorch, ccn2, cunnx, cudnn, sdl2, cutorch)
-* [ ] Figure out model serialization and loading
+* [x] Figure out model serialization and loading
+    * Built-in model serialization. [Loading](https://github.com/facebook/fblualib/blob/master/fblualib/thrift/README.md) and [saving](https://github.com/torch/demos/blob/1bfcb778dd3e237e5716a2c7001e3535cb17064c/train-on-cifar/train-on-cifar.lua#L372).
+    * There is also facebook's [Thrift library](https://github.com/facebook/fblualib/blob/master/fblualib/thrift/README.md), which I haven't seen many examples for.
 * [ ] Train and Whetlab a net on MNIST (to get the whole workflow going)
 * [ ] Train and Whetlab a net on CIFAR10
 * [ ] Train and Whetlab a net on STL10
