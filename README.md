@@ -6,8 +6,8 @@
 * [ ] Extract last-layer ImageNet features
 * [ ] Host last-layer ImageNet features
 * [ ] Build download script for last-layer ImageNet features
-* [ ] Build download script for MNIST dataset
-* [ ] Build download script for CIFAR10 dataset
+* [X] [Find download script for MNIST dataset](https://github.com/torch/demos/blob/master/train-a-digit-classifier/dataset-mnist.lua#L4)
+* [X] [Find download script for CIFAR10 dataset](https://github.com/torch/demos/blob/1bfcb778dd3e237e5716a2c7001e3535cb17064c/train-on-cifar/train-on-cifar.lua#L140-L220)
 * [ ] Build download script for STL10 dataset
 * [ ] Grok boosting criterion
 * [x] Fork torch-dist repo
