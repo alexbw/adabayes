@@ -39,6 +39,9 @@ https://github.com/soumith/convnet-benchmarks/blob/master/torch7/imagenet_winner
 I think this is NiN:
 https://github.com/soumith/convnet-benchmarks/blob/master/torch7/imagenet_winners/googlenet.lua
 
+OverFeat:
+https://github.com/facebook/fbcunn/blob/master/examples/imagenet/models/overfeat_cunn.lua
+
 Multiclass criterion:
 https://github.com/torch/nn/blob/master/doc/criterion.md#classnllcriterion
 
