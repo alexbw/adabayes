@@ -3,12 +3,8 @@
 ### To do:
 * [x] Find candidate last layer features (DeCAF, Overfeat)
 * [x] Find AlexNet code (5 convolutional layers with max-pooling, then three fully connected layers)
-* [ ] Extract last-layer ImageNet features
-* [ ] Host last-layer ImageNet features
-* [ ] Build download script for last-layer ImageNet features
 * [X] [Find download script for MNIST dataset](https://github.com/torch/demos/blob/master/train-a-digit-classifier/dataset-mnist.lua#L4)
 * [X] [Find download script for CIFAR10 dataset](https://github.com/torch/demos/blob/1bfcb778dd3e237e5716a2c7001e3535cb17064c/train-on-cifar/train-on-cifar.lua#L140-L220)
-* [ ] Build download script for STL10 dataset
 * [ ] Grok boosting criterion
 * [x] Fork torch-dist repo
 * [x] Update torch-dist repo for OS X 10.10 install
@@ -16,18 +12,22 @@
 * [x] Figure out model serialization and loading
     * Built-in model serialization. [Loading](https://github.com/facebook/fblualib/blob/master/fblualib/thrift/README.md) and [saving](https://github.com/torch/demos/blob/1bfcb778dd3e237e5716a2c7001e3535cb17064c/train-on-cifar/train-on-cifar.lua#L372).
     * There is also facebook's [Thrift library](https://github.com/facebook/fblualib/blob/master/fblualib/thrift/README.md), which I haven't seen many examples for.
+* [ ] Get the data out of the `DataSource` models that we're using
 * [ ] Train and Whetlab a net on MNIST (to get the whole workflow going)
 * [ ] Train and Whetlab a net on CIFAR10
 * [ ] Train and Whetlab a net on STL10
-* [ ] Train and Whetlab a net on last-layer features on ImageNet
 * [ ] Build dumb ensemble on CIFAR10
 * [ ] Build dumb ensemble on STL10
-* [ ] Build a dumb ensemble on ImageNet
 * [ ] Whetlab a net with progressive ensembling on CIFAR10
 * [ ] Whetlab a net with progressive ensembling on STL10
 * [ ] Whetlab a net with progressive ensembling on the last-layer features of ImageNet
 * [ ] Whetlab a net with progressive ensembling and tuned class weights on CIFAR10
 * [ ] Whetlab a net with progressive ensembling and tuned class weights on STL10
+* [ ] Extract last-layer ImageNet features
+* [ ] Host last-layer ImageNet features
+* [ ] Build download script for last-layer ImageNet features
+* [ ] Train and Whetlab a net on last-layer features on ImageNet
+* [ ] Build a dumb ensemble on ImageNet
 * [ ] Whetlab a net with progressive ensembling and tuned class weights on the last-layer features of ImageNet
 
 
