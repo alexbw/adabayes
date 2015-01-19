@@ -2,4 +2,4 @@
 cifar-10-batches-t7/
 stl10_binary/
 mnist.t7/
-
+*.zip
