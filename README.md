@@ -5,7 +5,6 @@
 * [x] Find AlexNet code (5 convolutional layers with max-pooling, then three fully connected layers)
 * [X] [Find download script for MNIST dataset](https://github.com/torch/demos/blob/master/train-a-digit-classifier/dataset-mnist.lua#L4)
 * [X] [Find download script for CIFAR10 dataset](https://github.com/torch/demos/blob/1bfcb778dd3e237e5716a2c7001e3535cb17064c/train-on-cifar/train-on-cifar.lua#L140-L220)
-* [ ] Grok boosting criterion
 * [x] Fork torch-dist repo
 * [x] Update torch-dist repo for OS X 10.10 install
 * [x] Add new required submodules to distro (nnx, iTorch, ccn2, cunnx, cudnn, sdl2, cutorch)
@@ -18,6 +17,7 @@
 * [ ] Train and Whetlab a net on STL10
 * [ ] Build dumb ensemble on CIFAR10
 * [ ] Build dumb ensemble on STL10
+* [ ] Grok boosting criterion
 * [ ] Whetlab a net with progressive ensembling on CIFAR10
 * [ ] Whetlab a net with progressive ensembling on STL10
 * [ ] Whetlab a net with progressive ensembling on the last-layer features of ImageNet
