@@ -56,3 +56,6 @@ http://cilvr.nyu.edu/doku.php?id=software:overfeat:start
 
 Decaf ImageNet submission:
 https://github.com/UCB-ICSI-Vision-Group/decaf-release/wiki/imagenet
+
+Some other net implementations:
+https://github.com/eladhoffer/ImageNet-Training
